@@ -1,0 +1,108 @@
+---
+object: card
+id: 5a89ba3a-7438-4d3b-ba36-b5a064392a11
+oracle_id: 142af8f1-6d6b-4043-8cc4-6632481972c1
+multiverse_ids: []
+mtgo_id: 40322
+mtgo_foil_id: 40323
+name: Spread the Sickness
+lang: en
+released_at: '2011-05-14'
+uri: https://api.scryfall.com/cards/5a89ba3a-7438-4d3b-ba36-b5a064392a11
+scryfall_uri: https://scryfall.com/card/td2/79/spread-the-sickness?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/a/5a89ba3a-7438-4d3b-ba36-b5a064392a11.jpg?1562913406
+  normal: https://cards.scryfall.io/normal/front/5/a/5a89ba3a-7438-4d3b-ba36-b5a064392a11.jpg?1562913406
+  large: https://cards.scryfall.io/large/front/5/a/5a89ba3a-7438-4d3b-ba36-b5a064392a11.jpg?1562913406
+  png: https://cards.scryfall.io/png/front/5/a/5a89ba3a-7438-4d3b-ba36-b5a064392a11.png?1562913406
+  art_crop: https://cards.scryfall.io/art_crop/front/5/a/5a89ba3a-7438-4d3b-ba36-b5a064392a11.jpg?1562913406
+  border_crop: https://cards.scryfall.io/border_crop/front/5/a/5a89ba3a-7438-4d3b-ba36-b5a064392a11.jpg?1562913406
+mana_cost: "{4}{B}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: Destroy target creature, then proliferate. (Choose any number of permanents
+  and/or players, then give each another counter of each kind already there.)
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Proliferate
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: b240675e-3a95-498d-a3b5-949ec08f7003
+set: td2
+set_name: 'Duel Decks: Mirrodin Pure vs. New Phyrexia'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/b240675e-3a95-498d-a3b5-949ec08f7003
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atd2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/td2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5a89ba3a-7438-4d3b-ba36-b5a064392a11/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A142af8f1-6d6b-4043-8cc4-6632481972c1&unique=prints
+collector_number: '79'
+digital: true
+rarity: common
+watermark: phyrexian
+flavor_text: Life is ephemeral. Phyrexia is eternal.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jaime Jones
+artist_ids:
+- 92f6c2c1-fa57-4b52-99c4-0fd866c13dc9
+illustration_id: 717fc5c9-7963-451b-bef5-06ab1dee45e6
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 6481
+penny_rank: 5023
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.09'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spread+the+Sickness&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spread+the+Sickness&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Spread+the+Sickness
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Spread+the+Sickness&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spread+the+Sickness&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/40322?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
